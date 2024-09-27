@@ -13,7 +13,7 @@ A student of life, dynamic, self-motivated, and hard-working individual passiona
 
 ## About Me
 
-- 🔭 I’m currently working as a customer support
+- 🔭 I’m currently working as a customer support for Investor Relations Websites
 - 🌱 Exploring to be a Developer
 - ⚡ I love web development when not talking to clients 
 - 😄 Love working with awesome people, love learning new things , nature lover and don't forget to exercise 
