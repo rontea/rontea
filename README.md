@@ -59,7 +59,7 @@ A student of life, dynamic, self-motivated, and hard-working individual passiona
 ##### New Projects
 - AIMANA
 - THEME3_BUILDER
-- GALAGA_V
+- GALAGAV
 
 
 
