@@ -55,7 +55,11 @@ A student of life, dynamic, self-motivated, and hard-working individual passiona
 #### Cool to Be
 ![Static Badge](https://img.shields.io/badge/--html?style=social&label=White%20hat)
 
-
+#### Stay Tune
+New Projects
+AIMANA
+THEME3_BUILDER
+GALAGA_V
 
 
 
