@@ -61,6 +61,8 @@ A student of life, dynamic, self-motivated, and hard-working individual passiona
 - THEME3_BUILDER
 - GALAGAV
 
+<img width="1693" height="929" alt="Logo" src="https://github.com/user-attachments/assets/aaa75b85-f76d-4682-89aa-3beb07c7739a" />
+
 
 
 
