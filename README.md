@@ -4,7 +4,7 @@
 
 [X](https://x.com/dupelawebsite) 
 | 
-[Website](https://live-rontea.pantheonsite.io/) | 
+[Website](https://rontea.github.io/rontea-2026/) | 
 [LORA](https://tensor.art/u/769303336762658486)
 ##
 A student of life, dynamic, self-motivated, and hard-working individual passionate about exploring the realms of web hosting and system development.
