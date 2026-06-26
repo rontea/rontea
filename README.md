@@ -59,7 +59,7 @@ A student of life, dynamic, self-motivated, and hard-working individual passiona
 
 #### Stay Tuned
 ##### New Projects
-- AIMANA
+- [AIMANA Beta Live](https://github.com/rontea/AIMANA-Asparagus/tree/beta)
 - THEME3_BUILDER
 - GALAGAV
 
